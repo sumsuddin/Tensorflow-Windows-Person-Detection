@@ -1,0 +1,1 @@
+python tf_python_server.py --frozen_model_filename frozen_inference_graph.pb
